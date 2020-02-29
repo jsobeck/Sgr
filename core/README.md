@@ -5,7 +5,7 @@ Majewski et al. (2013)
 McDonald et al. (2012)
 Mucciarelli et al. (2015, 2017)
 
-TO DO: Updates to Sgr core members should be performed.
+TO DO: Updates and additions to Sgr core members should be performed.
 
 TO DO: Gaia data incoportaion should occur.
 
