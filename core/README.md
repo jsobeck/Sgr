@@ -5,10 +5,10 @@ Majewski et al. (2013)
 McDonald et al. (2012)
 Mucciarelli et al. (2015, 2017)
 
-Updates to Sgr core members should be performed.
+TO DO: Updates to Sgr core members should be performed.
 
-Gaia data incoportaion should occur.
+TO DO: Gaia data incoportaion should occur.
 
-Note that Sgr core members with RV variability have been indicated.
+NOTE: Sgr core members with suspected RV variability have been indicated and prioritized in the targeting.
 
 
